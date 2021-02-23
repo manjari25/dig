@@ -30,6 +30,8 @@ This library is `v1` and follows [SemVer](http://semver.org/) strictly.
 
 No breaking changes will be made to exported APIs before `v2.0.0`.
 
+[Temp] Testing workflow.
+
 [doc-img]: http://img.shields.io/badge/GoDoc-Reference-blue.svg
 [doc]: https://godoc.org/go.uber.org/dig
 
